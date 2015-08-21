@@ -11,6 +11,7 @@ gem 'jbuilder', '2.3.1'
 gem 'sdoc', '0.4.1', group: :doc
 gem 'bootstrap-sass', '3.3.5.1'
 gem 'font-awesome-sass', '4.2.0'
+gem 'devise', '3.4.1'
 
 group :production do
 	gem 'pg', '0.18.2'
